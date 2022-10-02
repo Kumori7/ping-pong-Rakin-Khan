@@ -124,7 +124,7 @@ Option 2 to paste in browser ) http://localhost:8080/ping
 Regardless of which localhost url you choose i designed both urls to point to http://localhost:8080/ping link to display the pong value that will be found in below screenshot 
 
 
-![image](https://user-images.githubusercontent.com/73298685/193424873-24208e79-0de9-49cc-aec7-fda97165e7ac.png)
+![image](https://user-images.githubusercontent.com/73298685/193448120-55ea5881-3d21-4d63-8209-5f3a2ee3de46.png)
 
 
 You have successfully downloaded and run my ping-pong-Rakin-Khan submission 
