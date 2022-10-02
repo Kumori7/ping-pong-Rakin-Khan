@@ -63,3 +63,22 @@ Then we will click next button on screen
 
 ![image](https://user-images.githubusercontent.com/73298685/193397850-1d701d4c-3910-4342-a36e-189a787469e1.png)
 
+Click the browse button to locate file we want to import as shown in image below :
+
+![image](https://user-images.githubusercontent.com/73298685/193397886-e1a4c173-03ef-4e77-9325-acaf67dc7c80.png)
+
+After clicking browse button we want to find the project we have extracted from our ZIP folder
+
+![image](https://user-images.githubusercontent.com/73298685/193445970-a61734be-761d-4995-aa36-7b1b6655630f.png)
+
+We want to open up our project folder until we see “src” folder
+
+Next we want to press select folder button
+
+![image](https://user-images.githubusercontent.com/73298685/193446132-2587bf8a-986e-46f5-bf78-92ae89f882ef.png)
+
+Now we will select or click the check box option for "pom. Xml" dependency file we need to import than we click the finish button 
+
+![image](https://user-images.githubusercontent.com/73298685/193446164-c7fa5b9a-8d96-4205-b7e2-b39b8ae39c9b.png)
+
+
