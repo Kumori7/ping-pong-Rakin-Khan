@@ -4,6 +4,9 @@
 
 The first step is to go to the link provided to access my project on my github account.
 
+![image](https://user-images.githubusercontent.com/73298685/193445268-9e5898f7-524a-449e-94ea-ebc322be616f.png)
+
+
 Link  provided below : 
 https://github.com/Kumori7/ping-pong-Rakin-Khan
 
