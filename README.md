@@ -81,4 +81,51 @@ Now we will select or click the check box option for "pom. Xml" dependency file 
 
 ![image](https://user-images.githubusercontent.com/73298685/193446164-c7fa5b9a-8d96-4205-b7e2-b39b8ae39c9b.png)
 
+Project available to use in project explorer on left hand side of Eclipse IDE
+
+"ping-pong-Rakin-khan" project will be imported. Dependencies stored in "pom.xml" will automatically be downloaded and added into the class path 
+
+Here is the expected project structure after importing the project will be shown below image :
+
+7) run springBoot application
+
+
+![image](https://user-images.githubusercontent.com/73298685/193446265-c42d80fc-de95-44e9-9adb-66cdf07c75b1.png)
+
+To run application either go to full file name of "ping-pong-Rakin-khan" or locate the file name "PingPongRakinKhanApplication" located in "com.ab" package and simply right click one of these two options 
+
+Right click  and follow directions below 
+
+Run As > SpringBoot App
+
+After clicking SpringBoot App as the run option, springBoot will execute the main() method located in "pingpongRakinkhanApplication.java" file 
+
+![image](https://user-images.githubusercontent.com/73298685/193399507-274220cf-b990-4acc-b0ac-eb446ff6db61.png)
+
+SpringBoot will display this in the console located in the bottom of the IDE to show the application
+
+![image](https://user-images.githubusercontent.com/73298685/193448029-a08a1713-ac68-4542-838a-6188656b76d2.png)
+
+This screen shot confirms the application successfully loaded on the localhost port number 8080
+
+8) run application and paste in localhost:8080/ping into broswer 
+
+To run application make sure SpringBoot is started following step 7 
+
+Once SpringBoot is running open up your computer browser such as Google Chrome or Microsoft Edge 
+
+Copy and paste either one of the two following url into your chosen web browser 
+
+
+Option 1 to paste in browser)  http://localhost:8080
+
+Option 2 to paste in browser ) http://localhost:8080/ping
+
+Regardless of which localhost url you choose i designed both urls to point to http://localhost:8080/ping link to display the pong value that will be found in below screenshot 
+
+
+![image](https://user-images.githubusercontent.com/73298685/193424873-24208e79-0de9-49cc-aec7-fda97165e7ac.png)
+
+
+You have successfully downloaded and run my ping-pong-Rakin-Khan submission 
 
